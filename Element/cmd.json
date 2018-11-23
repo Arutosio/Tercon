@@ -1,0 +1,7 @@
+{
+	"cmdList": {
+        "sudo": " sudo ','<p id=\"sudo\"> sudo </p>",
+		"month": 1,
+		"year": 2000
+	}
+}

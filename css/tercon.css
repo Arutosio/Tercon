@@ -1,0 +1,43 @@
+body {
+    font-family: monospace;
+    color: rgb(240, 255, 254); 
+    background-color: rgb(32, 32, 32);
+}
+div {
+    background-color: rgb(32, 32, 32);
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 95%;
+    border-width: 0px 0px 0px 0px;
+}
+input {
+    color: rgb(240, 255, 254); 
+    background-color: rgb(32, 32, 32);
+    padding: 0px;
+    width: 100%;
+    border-color: blueviolet;
+    border-width: 0px 0px 1px 0px;
+}
+p {
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+#bsetting {
+    float:right;
+    margin-right:34px;
+    width: 30px;
+    height: 30px;
+
+}
+/*COMMAND Color*/
+#sudo {
+    color: red;
+    font: bold;
+}
+#get {
+    color: red;
+    font: bold;
+}
