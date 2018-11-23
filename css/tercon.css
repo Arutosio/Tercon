@@ -33,11 +33,6 @@ p {
 
 }
 /*COMMAND Color*/
-#sudo {
-    color: red;
-    font: bold;
-}
-#get {
-    color: red;
-    font: bold;
-}
+#info{color: aliceblue;}
+#help {color: rgb(229, 255, 0);}
+#get {color: rgb(30, 255, 0);}
