@@ -1,3 +1,5 @@
-function info() {
-    
+var info = {
+    info : function() {
+        alert('test prova');
+    }
 }

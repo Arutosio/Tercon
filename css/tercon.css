@@ -30,9 +30,12 @@ p {
     margin-right:34px;
     width: 30px;
     height: 30px;
-
 }
-/*COMMAND Color*/
+/* ID */
+div #divNC {
+    height: 5%;
+}
+/* COMMAND Color */
 #info{color: aliceblue;}
 #help {color: rgb(229, 255, 0);}
-#get {color: rgb(30, 255, 0);}
+#PCName {color: rgb(30, 255, 0);}
